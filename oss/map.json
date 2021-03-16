@@ -1,0 +1,42 @@
+[
+    {
+        "id": "name",
+        "name": "名称",
+        "widget": "a-input"
+    },
+    {
+        "id": "maxBytes",
+        "name": "最大体积",
+        "widget": "a-input"
+    },
+    {
+        "id": "field",
+        "name": "字段名称",
+        "widget": "a-input"
+    },
+    {
+        "id": "accessKeyId",
+        "name": "accessKeyId",
+        "widget": "a-input"
+    },
+    {
+        "id": "secretAccessKey",
+        "name": "secretAccessKey",
+        "widget": "a-input"
+    },
+    {
+        "id": "endpoint",
+        "name": "endpoint",
+        "widget": "a-input"
+    },
+    {
+        "id": "bucket",
+        "name": "bucket",
+        "widget": "a-input"
+    },
+    {
+        "id": "cdn",
+        "name": "CDN域名",
+        "widget": "a-input"
+    }
+]
