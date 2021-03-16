@@ -6,7 +6,7 @@
 
 ```html
 
-<a-upload name="field" :action="/DOCID/upload">
+<a-upload name="field" action="/DOCID/upload">
 上传
 </a-upload>
 ```

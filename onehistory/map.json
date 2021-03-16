@@ -1,0 +1,32 @@
+[
+    {
+        "id": "name",
+        "name": "名称",
+        "widget": "a-input"
+    },
+    {
+        "id": "icon",
+        "name": "图像",
+        "widget": "o-image"
+    },
+    {
+        "id": "type",
+        "name": "类型",
+        "widget": "a-input"
+    },
+    {
+        "id": "data",
+        "name": "数据",
+        "widget": "a-input"
+    },
+    {
+        "id": "tags",
+        "name": "标签",
+        "widget": "a-input"
+    },
+    {
+        "id": "uid",
+        "name": "用户ID",
+        "widget": "a-input"
+    }
+]
