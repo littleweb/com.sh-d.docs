@@ -13,17 +13,18 @@
         "id": "type",
         "name": "类型",
         "widget": "a-input"
+    },    
+    {
+        "id": "content_type",
+        "name": "内容类型",
+        "widget": "a-input"
     },
     {
         "id": "data",
         "name": "数据",
         "widget": "a-input"
     },
-    {
-        "id": "tags",
-        "name": "标签",
-        "widget": "a-input"
-    },
+
     {
         "id": "uid",
         "name": "用户ID",
